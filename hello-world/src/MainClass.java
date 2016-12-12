@@ -7,6 +7,8 @@ public class MainClass {
 		System.out.println("Hello world1asasdsangelikitets");
 
 		System.out.println("Hello world2");
+		System.out.println("Hello world from local branch 2");
+		
 
 	}
 
